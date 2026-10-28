@@ -2,3 +2,5 @@
 
 echo "Мой первый скрипт"
 echo "Succefully done!"
+
+echo "1st edit"
